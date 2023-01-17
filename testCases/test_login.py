@@ -10,12 +10,6 @@ class Test_001_Login:
     username=ReadConfig.getUseremail()
     password=ReadConfig.getPassword()
 
-    # @pytest.fixture()
-    # def setup(self):
-    #     driver = webdriver.Chrome()
-    #     return driver
-
-
     def test_homePageTitle(self,setup):
         self.driver=setup
         self.driver.get(self.baseURL)
