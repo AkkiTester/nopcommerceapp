@@ -21,7 +21,16 @@ def setup(request):
         driver=webdriver.Chrome()
     return driver
 
+#########pytest HTML##############
+def pytest_configure(config):
+    config._metadata['Project Name']='non Commerce'
+    config._metadata['Module Name']='Customers'
+    config._metadata['Tester']='Akash'
 
+@pytest.mark.optionhook
+def pytest_metadata(metadata):
+    metadata.pop('JAVA_HOME', None)
+    metadata.pop('Plugins', None)
 
 
 
