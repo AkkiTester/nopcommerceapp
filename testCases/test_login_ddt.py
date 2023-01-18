@@ -9,6 +9,8 @@ from testCases.conftets import setup
 from utilities.customLogger import LogGen
 from utilities import XLUtils
 
+
+############AKK#############
 class Test_002_DDT_Login:
     baseURL=ReadConfig.getApplicationURL()
     path='.//TestData/LoginData.xlsx'
