@@ -106,3 +106,45 @@
 2023-01-17 22:44:58,692 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
 2023-01-17 22:44:58,979 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
 2023-01-17 22:44:58,979 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-01-18 05:57:06,552 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-01-18 05:57:06,598 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-01-18 05:57:09,998 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-01-18 05:57:11,614 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-01-18 05:57:19,542 :INFO : Test_001_Login :************************* Login test is passed *************************
+2023-01-18 05:57:21,110 :INFO : Test_002_DDT_Login :************************* Test_002_DDT_Login *************************
+2023-01-18 05:57:21,111 :INFO : Test_002_DDT_Login :************************* Verifying Login DDT test *************************
+2023-01-18 05:57:34,389 :INFO : Test_002_DDT_Login :****** Passed ******
+2023-01-18 05:57:41,935 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-01-18 05:57:47,931 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-01-18 05:57:53,981 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-01-18 05:57:53,982 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
+2023-01-18 05:57:54,490 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
+2023-01-18 05:57:54,490 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-01-18 09:21:04,713 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-01-18 09:21:04,713 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-01-18 09:21:09,226 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-01-18 09:21:11,029 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-01-18 09:21:20,344 :INFO : Test_001_Login :************************* Login test is passed *************************
+2023-01-18 09:21:23,669 :INFO : Test_002_DDT_Login :************************* Test_002_DDT_Login *************************
+2023-01-18 09:21:23,670 :INFO : Test_002_DDT_Login :************************* Verifying Login DDT test *************************
+2023-01-18 09:21:37,094 :INFO : Test_002_DDT_Login :****** Passed ******
+2023-01-18 09:21:45,046 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-01-18 09:21:50,975 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-01-18 09:21:57,112 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-01-18 09:21:57,112 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
+2023-01-18 09:21:57,781 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
+2023-01-18 09:21:57,781 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-01-18 17:16:09,107 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-01-18 17:16:09,107 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-01-18 17:16:15,127 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-01-18 17:16:16,529 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-01-18 17:16:28,838 :INFO : Test_001_Login :************************* Login test is passed *************************
+2023-01-18 17:16:30,253 :INFO : Test_002_DDT_Login :************************* Test_002_DDT_Login *************************
+2023-01-18 17:16:30,253 :INFO : Test_002_DDT_Login :************************* Verifying Login DDT test *************************
+2023-01-18 17:16:45,799 :INFO : Test_002_DDT_Login :****** Passed ******
+2023-01-18 17:16:53,854 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-01-18 17:16:59,818 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-01-18 17:17:06,578 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-01-18 17:17:06,579 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
+2023-01-18 17:17:06,929 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
+2023-01-18 17:17:06,930 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
