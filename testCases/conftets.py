@@ -12,8 +12,9 @@ import pytest
     # request.cls.driver = driver         ## request => to class which is using fixture
     # yield
     # driver.close()
-@pytest.fixture()
-def setup(browser):
+@pytest.fixture(scope="module")
+def setup(request):
+    browser=request.config.getoption("--browser")
     if browser=='chrome':
         driver=webdriver.Chrome()
         print("Launching chrome browser.........")
@@ -27,9 +28,9 @@ def setup(browser):
 def pytest_addoption(parser):    # This will get the value from CLI /hooks
     parser.addoption("--browser")
 
-@pytest.fixture()
-def browser(request):  # This will return the Browser value to setup method
-    return request.config.getoption("--browser")
+# @pytest.fixture()
+# def browser(request):  # This will return the Browser value to setup method
+#     return request.config.getoption("--browser")
 #########pytest HTML##############
 def pytest_configure(config):
     config._metadata['Project Name']='non Commerce'

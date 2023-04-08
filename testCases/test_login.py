@@ -1,3 +1,4 @@
+#pytest -v --html=repot.html --browser 'firefox'
 import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -8,8 +9,7 @@ import testCases.conftets
 from utilities.customLogger import LogGen
 
 
-
-
+#@pytest.mark.usefixtures("setup")
 class Test_001_Login:
     baseURL=ReadConfig.getApplicationURL()
     username=ReadConfig.getUseremail()
