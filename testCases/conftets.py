@@ -16,7 +16,7 @@ import pytest
 def setup(request):
     browser=request.config.getoption("--browser")
     if browser=='chrome':
-        driver=webdriver.Chrome()
+        driver=webdriver.Chrome(executable_path=r'C:\Users\ADMIN\Desktop\nopcommerceapp\chromedriver.exe')
         print("Launching chrome browser.........")
     elif browser=='firefox':
         driver = webdriver.Firefox()

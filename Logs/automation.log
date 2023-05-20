@@ -60,3 +60,21 @@
 2023-04-08 15:37:51,113 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
 2023-04-08 15:37:52,266 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
 2023-04-08 15:37:52,266 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-04-09 09:10:43,643 :INFO : test_base_url :************Test_Base_URL***********
+2023-05-20 14:14:39,180 :INFO : Test_003_AddCustomer :************* Test_003_AddCustomer **********
+2023-05-20 14:14:47,867 :INFO : Test_003_AddCustomer :************* Login succesful **********
+2023-05-20 14:14:47,867 :INFO : Test_003_AddCustomer :******* Starting Add Customer Test **********
+2023-05-20 14:14:55,340 :INFO : Test_003_AddCustomer :************* Providing customer info **********
+2023-05-20 14:15:03,285 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-05-20 14:15:03,286 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-05-20 14:15:08,571 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-05-20 14:15:08,802 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-05-20 14:15:11,525 :INFO : Test_002_DDT_Login :************************* Test_002_DDT_Login *************************
+2023-05-20 14:15:11,525 :INFO : Test_002_DDT_Login :************************* Verifying Login DDT test *************************
+2023-05-20 14:15:24,641 :INFO : Test_002_DDT_Login :****** Passed ******
+2023-05-20 14:15:32,067 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-20 14:15:38,026 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-20 14:15:43,842 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-20 14:15:43,842 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
+2023-05-20 14:15:44,784 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
+2023-05-20 14:15:44,784 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
