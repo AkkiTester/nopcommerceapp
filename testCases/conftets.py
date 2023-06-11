@@ -42,6 +42,9 @@ def pytest_configure(config):
 
 
 
+
+
+
 # -----------run parallel test case cross browser test-----------------------------------------------------
 @pytest.fixture(params=["chrome", "firefox"],scope="module")
 def setup(request):
