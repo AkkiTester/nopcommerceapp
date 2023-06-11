@@ -78,3 +78,169 @@
 2023-05-20 14:15:43,842 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
 2023-05-20 14:15:44,784 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
 2023-05-20 14:15:44,784 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-05-20 15:09:40,652 :INFO : Test_003_AddCustomer :************* Test_003_AddCustomer **********
+2023-05-20 15:09:52,980 :INFO : Test_003_AddCustomer :************* Login succesful **********
+2023-05-20 15:09:52,980 :INFO : Test_003_AddCustomer :******* Starting Add Customer Test **********
+2023-05-20 15:10:02,039 :INFO : Test_003_AddCustomer :************* Providing customer info **********
+2023-05-20 15:10:10,949 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-05-20 15:10:10,949 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-05-20 15:10:16,707 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-05-20 15:10:17,043 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-05-20 15:10:19,386 :INFO : Test_002_DDT_Login :************************* Test_002_DDT_Login *************************
+2023-05-20 15:10:19,386 :INFO : Test_002_DDT_Login :************************* Verifying Login DDT test *************************
+2023-05-20 15:10:31,433 :INFO : Test_002_DDT_Login :****** Passed ******
+2023-05-20 15:10:39,783 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-20 15:10:45,610 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-20 15:10:51,751 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-20 15:10:51,752 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
+2023-05-20 15:10:55,454 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
+2023-05-20 15:10:55,454 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-05-20 17:30:33,314 :INFO : Test_003_AddCustomer :************* Test_003_AddCustomer **********
+2023-05-20 17:30:43,243 :INFO : Test_003_AddCustomer :************* Login succesful **********
+2023-05-20 17:30:43,245 :INFO : Test_003_AddCustomer :******* Starting Add Customer Test **********
+2023-05-20 17:30:52,131 :INFO : Test_003_AddCustomer :************* Providing customer info **********
+2023-05-20 17:31:00,065 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-05-20 17:31:00,065 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-05-20 17:31:03,827 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-05-20 17:31:04,227 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-05-20 17:31:06,262 :INFO : Test_002_DDT_Login :************************* Test_002_DDT_Login *************************
+2023-05-20 17:31:06,263 :INFO : Test_002_DDT_Login :************************* Verifying Login DDT test *************************
+2023-05-20 17:31:24,117 :INFO : Test_002_DDT_Login :****** Passed ******
+2023-05-20 17:31:32,834 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-20 17:31:39,161 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-20 17:31:45,639 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-20 17:31:45,639 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
+2023-05-20 17:31:45,974 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
+2023-05-20 17:31:45,975 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-05-23 08:48:45,516 :INFO : Test_003_AddCustomer :************* Test_003_AddCustomer **********
+2023-05-23 08:48:56,646 :INFO : Test_003_AddCustomer :************* Login succesful **********
+2023-05-23 08:48:56,646 :INFO : Test_003_AddCustomer :******* Starting Add Customer Test **********
+2023-05-23 08:49:05,990 :INFO : Test_003_AddCustomer :************* Providing customer info **********
+2023-05-23 08:49:14,691 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-05-23 08:49:14,691 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-05-23 08:49:22,542 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-05-23 08:49:23,050 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-05-23 08:49:25,137 :INFO : Test_002_DDT_Login :************************* Test_002_DDT_Login *************************
+2023-05-23 08:49:25,137 :INFO : Test_002_DDT_Login :************************* Verifying Login DDT test *************************
+2023-05-23 08:49:47,928 :INFO : Test_002_DDT_Login :****** Passed ******
+2023-05-23 08:49:56,350 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-23 08:50:02,234 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-23 08:50:08,380 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-05-23 08:50:08,380 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
+2023-05-23 08:50:09,062 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
+2023-05-23 08:50:09,063 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-06-11 15:54:24,849 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 15:54:24,911 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 15:54:30,873 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 15:54:31,235 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 15:55:49,141 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 15:55:49,142 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 15:55:49,458 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 15:55:55,238 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 15:56:01,086 :INFO : Test_001_Login :************************* Login test is passed *************************
+2023-06-11 15:57:52,402 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 15:57:52,402 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 15:57:57,670 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 15:57:57,901 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 16:01:03,664 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 16:01:03,680 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 16:01:03,680 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 16:01:10,264 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 16:01:12,004 :INFO : Test_001_Login :************************* Login test is passed *************************
+2023-06-11 21:40:42,940 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:40:42,941 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:40:42,949 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:40:52,300 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:40:52,301 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:40:54,354 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:40:54,364 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:40:54,364 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:40:54,374 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:43:57,867 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:43:57,868 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:44:03,327 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 21:44:03,585 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:44:05,659 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:44:05,660 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:44:10,484 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 21:44:11,794 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:46:33,663 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:46:33,665 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:46:38,968 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 21:46:39,213 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:46:41,108 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:46:41,109 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:46:45,750 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 21:46:47,014 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:47:31,378 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:47:32,233 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:47:32,233 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:47:37,763 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 21:47:41,529 :INFO : Test_001_Login :************************* Login test is passed *************************
+2023-06-11 21:47:43,462 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:47:43,937 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:47:43,939 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:47:50,211 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 21:47:50,479 :INFO : Test_001_Login :************************* Login test is passed *************************
+2023-06-11 21:55:27,529 :INFO : Test_003_AddCustomer :************* Test_003_AddCustomer **********
+2023-06-11 21:55:37,623 :INFO : Test_003_AddCustomer :************* Login succesful **********
+2023-06-11 21:55:37,623 :INFO : Test_003_AddCustomer :******* Starting Add Customer Test **********
+2023-06-11 21:55:46,114 :INFO : Test_003_AddCustomer :************* Providing customer info **********
+2023-06-11 21:56:01,653 :INFO : Test_003_AddCustomer :************* Test_003_AddCustomer **********
+2023-06-11 21:56:11,792 :INFO : Test_003_AddCustomer :************* Login succesful **********
+2023-06-11 21:56:11,792 :INFO : Test_003_AddCustomer :******* Starting Add Customer Test **********
+2023-06-11 21:56:18,847 :INFO : Test_003_AddCustomer :************* Providing customer info **********
+2023-06-11 21:56:27,223 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:56:27,223 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:56:32,252 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 21:56:32,449 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:56:42,354 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 21:56:42,355 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 21:56:48,194 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 21:56:49,274 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 21:56:51,464 :INFO : Test_002_DDT_Login :************************* Test_002_DDT_Login *************************
+2023-06-11 21:56:51,465 :INFO : Test_002_DDT_Login :************************* Verifying Login DDT test *************************
+2023-06-11 21:57:07,630 :INFO : Test_002_DDT_Login :****** Passed ******
+2023-06-11 21:57:15,388 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-06-11 21:57:21,522 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-06-11 21:57:27,788 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-06-11 21:57:27,788 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
+2023-06-11 21:57:28,162 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
+2023-06-11 21:57:28,162 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-06-11 21:57:36,586 :INFO : Test_002_DDT_Login :************************* Test_002_DDT_Login *************************
+2023-06-11 21:57:36,586 :INFO : Test_002_DDT_Login :************************* Verifying Login DDT test *************************
+2023-06-11 21:57:48,153 :INFO : Test_002_DDT_Login :****** Passed ******
+2023-06-11 21:57:56,055 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-06-11 21:58:01,873 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-06-11 21:58:07,706 :INFO : Test_002_DDT_Login :****** Passed *****
+2023-06-11 21:58:07,706 :INFO : Test_002_DDT_Login :********* Login DDT Test Is Passed *******
+2023-06-11 21:58:09,578 :INFO : Test_002_DDT_Login :********* End of Login DDT Test ***************
+2023-06-11 21:58:09,578 :INFO : Test_002_DDT_Login :********* Completed TC LoginDDT_002 ***************
+2023-06-11 22:10:32,760 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 22:10:32,761 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 22:10:32,928 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 22:10:38,910 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 22:10:41,910 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 22:10:41,911 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 22:10:43,221 :INFO : Test_001_Login :************************* Verifying Login test *************************
+2023-06-11 22:10:46,068 :INFO : Test_001_Login :************************* Login test is passed *************************
+2023-06-11 22:10:48,220 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 22:10:51,585 :INFO : Test_001_Login :************************* Login test is passed *************************
+2023-06-11 22:13:13,496 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 22:13:13,496 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 22:13:18,664 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 22:13:20,530 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 22:13:20,530 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 22:13:23,411 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 22:14:16,061 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 22:14:16,061 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 22:14:20,788 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 22:14:23,195 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 22:14:23,195 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 22:14:29,565 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 22:17:08,525 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 22:17:08,527 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 22:17:12,589 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
+2023-06-11 22:17:15,917 :INFO : Test_001_Login :************************* Test_001_Login *************************
+2023-06-11 22:17:15,917 :INFO : Test_001_Login :************************* Verifying Home Page Title *************************
+2023-06-11 22:17:22,469 :INFO : Test_001_Login :************************* Home Page Title is passed *************************
